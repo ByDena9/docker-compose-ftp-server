@@ -2,9 +2,9 @@ networks:
   frontend:
     # Add 'external: true' to use an existing network
     # Añade 'external: true' para usar una red existente
-    external: true
+    #external: true
   backend:
-    external: true
+    #external: true
 
 services:
   db:
